@@ -1,0 +1,11 @@
+{
+  "name": "sharing-demo1",
+  "version": "1.0.0",
+  "description": "knowledge sharing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Brown <chrisjosbrown@gmail.com>",
+  "license": "ISC"
+}
